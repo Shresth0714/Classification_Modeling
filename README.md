@@ -1,15 +1,15 @@
 # Classification_Modeling
-Aim of this project is to build a machine learning model to predict weather a customer will subscribe to new service.
+Aim of this project is to build a machine learning model to predict whether a customer will subscribe to a new service.
 
-PROJECT APPRENTICE CHEF - Halfway There Cross-Sell service
+**PROJECT APPRENTICE CHEF** - Halfway There Cross-Sell service
 
-**AIM**: Of this project is to build a machine learning model to predict weather a customer will subscribe to Halfway There service.
+**AIM**: This project is to build a machine learning model to predict whether a customer will subscribe to Halfway There service.
 
-**BACKGROUND**: Halfway There is a unique subscription in which subscribers will get half bottle of wine from local California vineyard every Wednesday.
+**BACKGROUND**: Halfway There is a unique subscription in which subscribers will get half bottle of wine from the local California vineyard every Wednesday.
 
-**WHY**: Apprentice Chef want to diversify there revenue stream by adding a cross-sell service. Plus this will give Apprentice Chef competitive advantage based on its unique product offering of hard to find local wines.
+**WHY**: Apprentice Chef wants to diversify its revenue stream by adding a cross-sell service. Plus this will give Apprentice Chef competitive advantage based on its unique product offering of hard to find local wines.
 
-**ASSUMPTION**: The dataset provided by the engineering team has used dataset engineering techniques and are statistically sound and represent the true picture of Apprentice Chef’s customers.
+**ASSUMPTION**: The dataset provided by the engineering team has used dataset engineering techniques and is statistically sound and represents the true picture of Apprentice Chef’s customers.
 
 *Tried and tested various Machine Learning models to understand which will be used for the final approach, and GBM without tuning has the highest AUC value.*
 ~~~
